@@ -1,0 +1,15 @@
+Look Into
+
+Frameworks
+1. ExpressJS
+2. NodeJS
+3. ReactJS
+4. NextJS
+5. Vite
+6. Deno
+7. Remix
+
+Stacks
+1. MERN
+2. PERN
+3. CERN
